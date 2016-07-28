@@ -10,6 +10,7 @@ import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.function.Function;
 import org.apache.spark.api.java.function.PairFunction;
+import org.janelia.thickness.utility.SparkRender;
 import org.janelia.thickness.utility.Utility;
 import scala.Tuple2;
 
